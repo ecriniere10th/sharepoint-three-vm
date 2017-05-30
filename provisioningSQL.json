@@ -65,7 +65,7 @@
             "publisher": "MicrosoftSQLServer",
             "offer": "SQL2014SP2-WS2012R2",
             "sku": "Standard",
-            "version": "12.1.50002"
+            "version": "latest"
           },
           "osDisk": {
             "name": "osdisk",
